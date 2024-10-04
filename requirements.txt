@@ -1,0 +1,14 @@
+# Multi AI Agent Systems with crewAI
+crewai==0.51.1 
+crewai-tools==0.8.3
+python-dotenv==1.0.1
+fastapi==0.112.2
+uvicorn==0.30.6
+
+haystack-ai==2.5.1
+pymupdf==1.24.10
+pypdf==4.3.1
+python-docx==1.1.2
+torch==2.4.1
+transformers==4.44.2
+sentence-transformers==3.1.1
